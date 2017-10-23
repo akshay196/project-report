@@ -1,5 +1,4 @@
 # Summary
 
 * [Introduction](README.md)
-* [Week 1](chapter1.md)
-
+* [Week 1](week1.md)
