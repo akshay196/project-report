@@ -1,3 +1,6 @@
-# My Awesome Book
+# Project Report
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book contains weekly report of our project **Automation hybrid cloud management using ManageIQ and Ansible. **
+
+This book is continuously updating as project proceed. 
+
